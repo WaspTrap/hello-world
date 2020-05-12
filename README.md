@@ -1,2 +1,2 @@
 # hello-world
-It sa repository
+It's a repository
